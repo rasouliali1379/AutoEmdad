@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AutoEmdad</string>
+    <string name="try_again">تلاش مجدد</string>
+    <string name="no_connection">ارتباط با سرور قطع شد!</string>
+    <string name="company_name">شرکت رایان اندیشه صر و تجارت طلایی سامیار ایرانیان</string>
+    <string name="version_code">1.0.2</string>
+</resources>
